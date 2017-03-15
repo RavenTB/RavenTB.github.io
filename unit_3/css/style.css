@@ -2,6 +2,7 @@ body {
 	background-color: yellow;
 	color: blue;
 	text-align: center;
+	font-size: 30px;
 }
 #slogan {
 	font-style: italic;
