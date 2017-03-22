@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline|Permanent+Marker');
+
+h1 {
+	font-family: 'Fascinate Inline', cursive;
+}
+
+p {
+	background-color: yellow;
+	color: blue;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Permanent Marker', cursive;
+}
+
+#slogan {
+	font-style: italic;
+}
