@@ -5,6 +5,18 @@ h1 {
 	font-family: 'Fascinate Inline', cursive;
 }
 
+body {
+	background-color: yellow;
+}
+
+ul {
+	background-color: yellow;
+	color: blue;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Permanent Marker', cursive;
+}
+
 p {
 	background-color: yellow;
 	color: blue;
