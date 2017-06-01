@@ -100,4 +100,13 @@ div/section {
 	height: 0;
 }
 
+@media screen only and (min-width: 500px) {
+	aside {
+		float:none;
+	}
+	article {
+		float:none;
+	}
+}
+
 
